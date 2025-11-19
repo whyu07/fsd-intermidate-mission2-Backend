@@ -87,3 +87,11 @@ npm start
 ```
 
 Server akan berjalan di `http://localhost:8080`.
+
+## Koleksi Postman
+
+Untuk memudahkan pengujian endpoint API, Anda dapat menggunakan koleksi Postman yang sudah disiapkan. Impor koleksi melalui tautan berikut:
+
+[Koleksi Postman Movie API](https://cloudy-capsule-725607.postman.co/workspace/Mission-BE~d8670459-fcdd-4951-86aa-2ad8427bf15e/collection/50102762-3bab1d80-b884-496e-89db-d7b4a8834edb?action=share&source=copy-link&creator=50102762)
+
+Semoga berhasil!
