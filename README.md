@@ -92,6 +92,6 @@ Server akan berjalan di `http://localhost:8080`.
 
 Untuk memudahkan pengujian endpoint API, Anda dapat menggunakan koleksi Postman yang sudah disiapkan. Impor koleksi melalui tautan berikut:
 
-[Koleksi Postman Movie API](https://cloudy-capsule-725607.postman.co/workspace/Mission-BE~d8670459-fcdd-4951-86aa-2ad8427bf15e/collection/50102762-3bab1d80-b884-496e-89db-d7b4a8834edb?action=share&source=copy-link&creator=50102762)
+[Koleksi Postman Movie API](https://www.postman.com/cloudy-capsule-725607/workspace/movie-app/collection/50102762-3bab1d80-b884-496e-89db-d7b4a8834edb?action=share&creator=50102762&active-environment=50102762-5c0e70b1-88d8-4a8b-b25f-44c99019601a)
 
 Semoga berhasil!
