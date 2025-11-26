@@ -92,6 +92,6 @@ Server akan berjalan di `http://localhost:8080`.
 
 Untuk memudahkan pengujian endpoint API, Anda dapat menggunakan koleksi Postman yang sudah disiapkan. Impor koleksi melalui tautan berikut:
 
-[Koleksi Postman Movie API]([https://www.postman.com/cloudy-capsule-725607/workspace/movie-app/collection/50102762-3bab1d80-b884-496e-89db-d7b4a8834edb?action=share&creator=50102762&active-environment=50102762-5c0e70b1-88d8-4a8b-b25f-44c99019601a](https://www.postman.com/wahyu-1903801/workspace/movie-app/collection/47821006-724547e9-c2d2-45e8-b51b-266fdb00b952?action=share&creator=47821006))
+[Koleksi Postman Movie API](https://www.postman.com/cloudy-capsule-725607/workspace/movie-app/collection/50102762-3bab1d80-b884-496e-89db-d7b4a8834edb?action=share&creator=50102762&active-environment=50102762-5c0e70b1-88d8-4a8b-b25f-44c99019601a](https://www.postman.com/wahyu-1903801/workspace/movie-app/collection/47821006-724547e9-c2d2-45e8-b51b-266fdb00b952?action=share&creator=47821006)](https://www.postman.com/wahyu-1903801/workspace/movie-app/collection/47821006-724547e9-c2d2-45e8-b51b-266fdb00b952?action=share&creator=47821006&active-environment=47821006-89d75c6a-e714-41dc-8fe8-cb7cb42f8a4b](https://www.postman.com/wahyu-1903801/workspace/movie-app/collection/47821006-724547e9-c2d2-45e8-b51b-266fdb00b952?action=share&creator=47821006&active-environment=47821006-89d75c6a-e714-41dc-8fe8-cb7cb42f8a4b)
 
 Semoga berhasil!
