@@ -16,7 +16,7 @@ Pertama, clone repositori ini dari GitHub ke mesin lokal Anda menggunakan perint
 
 ```bash
 git clone https://github.com/whyu07/fsd-intermidate-mission2-Backend.git
-cd backend-movie-api
+cd fsd-intermidate-mission2-Backend
 ```
 
 ### 2. Instalasi Dependensi
